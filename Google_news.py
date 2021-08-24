@@ -1,4 +1,4 @@
-
+heroku create myapp --buildpack heroku/python
 get_ipython().system('pip3 install requests')
 
 
